@@ -13,7 +13,7 @@
           </div>
         </div>
         <div class="main-banner__img">
-          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/6.jpg">
+          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/4.jpg">
         </div>
       </div>
       <div class="main-banner__item">
@@ -27,7 +27,7 @@
           </div>
         </div>
         <div class="main-banner__img">
-          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/4.jpg">
+          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/1.jpg">
         </div>
       </div>
     </div>
@@ -44,14 +44,14 @@
         <div class="main-services__item">
           <div class="main-services__boxcontent">
             <div class="main-services__img">
-              <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/g04.jpg">
+              <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/11.jpg">
             </div>
             <div class="main-services__boxtext">
               <div class="main-services__title">
-                <p>CUIDADOS EN SALUD</p>
+                <p>NUTRICIÓN BALANCEADA</p>
               </div>
               <div class="main-services__description">
-                <p>Poseemos cuidadores con experiencia en la atención y cuidados del adulto mayor.</p>
+                <p>Brindamos una alimentación balanceada todos los días para su crecimiento sano.</p>
               </div>
             </div>
           </div>
@@ -59,14 +59,14 @@
         <div class="main-services__item">
           <div class="main-services__boxcontent">
             <div class="main-services__img">
-              <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/g15.jpg">
+              <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/7.jpg">
             </div>
             <div class="main-services__boxtext">
               <div class="main-services__title">
-                <p>SERVICIO DE ALIMENTACIÓN</p>
+                <p>SALA DE SIESTAS</p>
               </div>
               <div class="main-services__description">
-                <p>Procuramos entregar un servicio de alimentación muy casero, sabroso y saludable para nuestros residentes.</p>
+                <p>Contamos con dormitorios para el descanso de los niños y una sala de cunas para los más pequeños.</p>
               </div>
             </div>
           </div>
@@ -74,14 +74,14 @@
         <div class="main-services__item">
           <div class="main-services__boxcontent">
             <div class="main-services__img">
-              <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/03-2-320x320.jpg">
+              <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/8.jpg">
             </div>
             <div class="main-services__boxtext">
               <div class="main-services__title">
-                <p>ESTIMULACIÓN Y ENTRETENIMIENTO</p>
+                <p>PROGRAMA PEDAGÓGICO</p>
               </div>
               <div class="main-services__description">
-                <p>Contamos con un servicio cálido y efectivo, para estimular a nuestros residentes en términos cognitivos y estimulación física.</p>
+                <p>Nuestro equipo docente se preocupa por adaptar los proyectos educativos al ritmo de cada niño/a.</p>
               </div>
             </div>
           </div>
@@ -89,19 +89,19 @@
         <div class="main-services__item">
           <div class="main-services__boxcontent">
             <div class="main-services__img">
-              <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/sa-320x320.jpg">
+              <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/5.jpg">
             </div>
             <div class="main-services__boxtext">
               <div class="main-services__title">
-                <p>ADMINISTRACIÓN DE MEDICAMENTOS</p>
+                <p>ACTIVIDADES EXTRAESCOLARES</p>
               </div>
               <div class="main-services__description">
-                <p>Se administra medicamentos, bajo la supervisión e indicaciones clínicas del médico y enfermero jefe.</p>
+                <p>Disponemos de un espacio al aire libre para jugar y realizamos también actividades con ellos, como: manualidades.</p>
               </div>
             </div>
           </div>
         </div>
-        <div class="main-services__item">
+        <!-- <div class="main-services__item">
           <div class="main-services__boxcontent">
             <div class="main-services__img">
               <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/05-1-320x320.jpg">
@@ -130,7 +130,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>
@@ -153,9 +153,7 @@
               <p>Sandra Victoria Kids</p>
             </div>
             <div class="main-about__description">
-              <p>Es una residencia para adultos mayores autovalentes y semivalentes. Ubicada en la comuna de San Miguel, en un barrio tranquilo y residencial a pasos del metro ciudad del niño, exactamente en Sexta Avenida #1354.</p>
-              <p>Entendemos el envejecimiento como un proceso biológico, psíquico y físico por el cual transita una persona en la última etapa de su ciclo vital. Aportamos una visión innovadora de como apoyar a nuestros Adultos Mayores de manera más armónica
-                e integral.</p>
+              <p>Inspirados por el éxito de nuestra residencia para adultos mayores, decidimos crear algo nuevo. Pensando en el bienestar de los niños y en la comodidad de los padres, abrimos la guardería Sandra Victoria Kids, brindando cuidados e introduciendo el deseo de aprender en un ambiente armónico y divertido. Con un equipo docente para área de la educación infantil quienes acompañan y motivan a los niños a aprender de una manera emocionante..</p>
             </div>
           </div>
         </div>
@@ -172,27 +170,27 @@
       <div class="main-gallery__content">
         <div class="main-gallery__item">
           <div class="main-gallery__img">
-            <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/01.jpg">
+            <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/3.jpg">
           </div>
         </div>
         <div class="main-gallery__item">
           <div class="main-gallery__img">
-            <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/02.jpg">
+            <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/7.jpg">
           </div>
         </div>
         <div class="main-gallery__item">
           <div class="main-gallery__img">
-            <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/03-1.jpg">
+            <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/5.jpg">
           </div>
         </div>
         <div class="main-gallery__item">
           <div class="main-gallery__img">
-            <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/08.jpg">
+            <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/6.jpg">
           </div>
         </div>
         <div class="main-gallery__item">
           <div class="main-gallery__img">
-            <img class="img-round" src="https://sandravictoria.cl/wp-content/uploads/2019/08/09.jpg">
+            <img class="img-round" src="<?php echo get_template_directory_uri(); ?>/assets/img/10.jpg">
           </div>
         </div>
       </div>
